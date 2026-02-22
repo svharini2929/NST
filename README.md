@@ -66,10 +66,3 @@ The project uses **Gradio Blocks UI** for a clean web-based interface:
 
 ---
 
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
